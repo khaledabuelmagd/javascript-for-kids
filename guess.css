@@ -1,0 +1,14 @@
+div{
+    border: 2px solid darkblue;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    background-color: gray;
+}
+input[type=button]{
+    background-color: black;
+    height: 30px;
+    width: 120px;
+    border: none;
+    color:white;
+}
